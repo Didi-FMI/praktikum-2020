@@ -1,0 +1,26 @@
+body {
+    background-color:#f6f6f6
+}
+
+.navigation-style {
+    background-color: white;
+    margin-top: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+    padding-left: 10rem;
+    padding-right: 10rem;
+}
+
+.content-style {
+    padding-top: 1rem;
+    padding-left: 10rem;
+    padding-right: 10rem;
+}
+
+.icons-style {
+    font-size: 3rem;
+}
+
+.description-text {
+    font-size: 1rem;
+}
